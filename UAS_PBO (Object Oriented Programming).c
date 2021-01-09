@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <conio.h>
-#include <stdlib.h>
+#include <stdio.h>
 #include <windows.h>
+#include <stdlib.h>
 
 int papan[10] = {2,2,2,2,2,2,2,2,2,2};
 int giliran = 1,bendera = 0;
